@@ -1,0 +1,8 @@
+.wrapper {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    gap: 24px;
+    padding: 40px;
+    flex-wrap: wrap;
+}

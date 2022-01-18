@@ -1,0 +1,11 @@
+.wrapper {
+    display: flex;
+}
+
+.prop {
+    font-weight: bold;
+}
+
+.value {
+    font-size: 1.1rem;
+}
